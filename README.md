@@ -25,3 +25,8 @@ or
 ```jupyter notebook dlnd_face_generation.ipynb```
 
 This will open the Jupyter Notebook software and project file in your browser.
+
+## Files
+
+helper.py: contains helper functions to run the dlnd_face_generation.ipynb
+problem_unittests.py: contains unit testing functions
